@@ -1,8 +1,7 @@
 # MNIST_Digits
 
-This is an ANN built from the ground-up and represented via extended matrix manupulation in leiu of objects. 
+ANN built from the ground-up and represented via extended matrix manupulation in leiu of objects.
 
-It solves for MNIST digits.
+Solves for MNIST digits dataset with >98% accuracy.
 
-Stats... 
-	To be added
+NN architecture definable at runtime (number of layers, number of nodes/layer).
